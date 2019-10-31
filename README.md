@@ -34,7 +34,7 @@ This app is pretty pointless. The backend is where it is impressive.
     * main.handlebars (The layout that our index.handlebars references.)
 
 ##### Instructions to Run the App
-* Hosted on Heroku here:
+* Hosted on Heroku here: https://evil-ghoul-08418.herokuapp.com/
 
 * OR clone the file from github. (https://github.com/emmastotz/chzbgr)
 * Install all dependencies needed to run the program ("npm install").
